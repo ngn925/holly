@@ -159,7 +159,19 @@ logging.level.se.hollytech.jukebox=DEBUG
 
 -- save as api-doc/doc.md
 
+*Now I want to upload  my project to github.com/ngn925/holly. What are the steps to accomplish it?*
 
+-- upload
+
+*Looks really good. Now I need to include a bash shell script that compiles the code and starts the jetty service and prints out where api documentation can be found and short description of the three available endpoints.*
+
+*problem log shared with grok*
+
+-- fix
+
+*A minor problem with the script is that the output color must be at the start of the line. For endpoint description a numbering starts the line, so it looks funny. Also remove the automatic test calls using the api and the tail output from the log and add an instruction how to shutdown the server (that is ctrl-c, in the terminal)*
+
+-- cut, paste test... works!
 
 
 

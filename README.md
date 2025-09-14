@@ -6,8 +6,8 @@ This has been a vibe-coding exercise (quite fun and interesting).
 
 ## Precondions ##
 
--- java 17 needs to be installed
--- gradlew needs to be installed
+- java 17 needs to be installed
+- gradlew needs to be installed
 
 ## Run jetty server ##
 
